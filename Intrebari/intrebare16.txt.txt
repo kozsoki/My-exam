@@ -1,0 +1,14 @@
+Domeniu : Informatica
+Nivel : 4
+Titlu : Internet
+Text_intrebare : Ce inseamna HTTP?
+endl
+Hint : Pavilonul albastru
+Raspuns : Hyper Text Transfer Protocol
+Raspuns : Hytech Tournament Trade Pointer
+Raspuns : Hidrogen Titan Taliu Plumb
+endl
+Indice RC : 0
+Image : no image
+Punctaj : 16
+Timp : 100

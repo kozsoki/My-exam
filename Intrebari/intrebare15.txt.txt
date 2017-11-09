@@ -1,0 +1,16 @@
+Domeniu : Matematica
+Nivel : 2
+Titlu : Sinus
+Text_intrebare : Cu cat e echivalent sin(pi/2) ?
+endl
+Hint : Pavilonul albastru
+Raspuns : cos(pi/2)
+Raspuns : 0
+Raspuns : infinit
+Raspuns : 1
+Raspuns : tan(pi/2)
+endl
+Indice RC : 3
+Image : sinus.png
+Punctaj : 8
+Timp : 100

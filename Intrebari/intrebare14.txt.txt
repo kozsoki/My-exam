@@ -1,0 +1,18 @@
+Domeniu : Generalitati
+Nivel : 5
+Titlu : Pool
+Text_intrebare : Cu cate bile se joaca biliard?
+endl
+Hint : Biliard = 8-balls
+Raspuns : 13
+Raspuns : 15
+Raspuns : 8
+Raspuns : 16
+Raspuns : 17
+Raspuns : 20
+Raspuns : 42
+endl
+Indice RC : 3
+Image : biliard.png
+Punctaj : 20
+Timp : 200

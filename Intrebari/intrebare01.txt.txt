@@ -1,0 +1,17 @@
+Domeniu : Informatica
+Nivel : 3
+Titlu : Algoritmi de sortare
+Text_intrebare : Care este timpul de executie
+Text_intrebare : al algoritmului merge sort?
+endl
+Hint : Cel mai slab algoritm de sortare are timpul de executie n ^ 2
+Raspuns : n
+Raspuns : 2 log n
+Raspuns : n ^ 2
+Raspuns : n log n
+Raspuns : sqrt (n)
+endl
+Indice RC : 3
+Image : mergesort.png
+Punctaj : 12
+Timp : 200

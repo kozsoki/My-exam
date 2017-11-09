@@ -1,0 +1,18 @@
+Domeniu : Generalitati
+Nivel : 8
+Titlu : Marca
+Text_intrebare : Care marca a construit Adolf Dassler?
+endl
+Hint : Cu Kasper Rorsted a facut
+Raspuns : Puma
+Raspuns : Nike
+Raspuns : NewBalance
+Raspuns : Converse
+Raspuns : Adidas
+Raspuns : Reebook
+Raspuns : Lacoste
+endl
+Indice RC : 4
+Image : marca.png
+Punctaj : 28
+Timp : 200

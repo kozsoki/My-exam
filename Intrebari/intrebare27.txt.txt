@@ -1,0 +1,21 @@
+Domeniu : Generalitate
+Nivel : 8
+Titlu : Istorie
+Text_intrebare : Cine a fost brevetat ca inventie
+Text_intrebare : stilou cu bila care utilizam 
+Text_intrebare : si acuma in prezent?
+endl
+Hint : A fost maghiar si a trait intre 1899-1985
+Raspuns : Neumann Janos
+Raspuns : Banki Donat
+Raspuns : Csonka Janos
+Raspuns : Irinyi Janos
+Raspuns : Arany Janos
+Raspuns : Biro Laszlo Jozsef
+Raspuns : Puskas Tivadar
+Raspuns : Blathy Otto Titusz
+endl
+Indice RC : 5
+Image : stilou.png
+Punctaj : 32
+Timp : 200

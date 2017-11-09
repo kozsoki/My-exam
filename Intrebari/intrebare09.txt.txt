@@ -1,0 +1,16 @@
+Domeniu : Generalitati
+Nivel : 3
+Titlu : Bancnote
+Text_intrebare : Cine este pe bancnote de 500 de RON?
+endl
+Hint : Se da la BAC
+Raspuns : Lucian Blaga
+Raspuns : Ion Luca Caragiale
+Raspuns : Nicolae Grigorescu
+Raspuns : Mihai Eminescu
+Raspuns : George Enescu
+endl
+Indice RC : 3
+Image : eminescu.png
+Punctaj : 12
+Timp : 100

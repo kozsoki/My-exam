@@ -1,0 +1,16 @@
+Domeniu : Oradea
+Nivel : 5
+Titlu : Centru Oradea
+Text_intrebare : Cum se numeste statuie din centru lui Oradea?
+endl
+Hint : A trait intre anii 1558-1601
+Raspuns : Vlad Tepes
+Raspuns : Mircea Cel Batran
+Raspuns : Mihai Viteazul
+Raspuns : Nicolae Balcescu
+Raspuns : Vasile Alecsandri
+endl
+Indice RC : 2
+Image : statuie.png
+Punctaj : 20
+Timp : 150

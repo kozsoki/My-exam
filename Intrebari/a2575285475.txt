@@ -1,0 +1,16 @@
+Domeniu : Informatica
+Nivel : 2
+Titlu : Algoritm
+Text intrebare : Care algoritm nu este bazat
+Text intrebare : pe recursivitate
+endl
+Hint : 
+Text raspuns : Generare permutari
+Text raspuns : Turnurile din Hanoi
+Text raspuns : Cautarea binara
+Text raspuns : Sortarea prin selectie
+endl
+Indice RC : 3
+Image : 
+Punctaj : 10
+Timp : 10

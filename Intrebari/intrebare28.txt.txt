@@ -1,0 +1,20 @@
+Domeniu : Informatica
+Nivel : 8
+Titlu : Computer
+Text_intrebare : Cu ce parte a unui computer
+Text_intrebare : este asociat brand-ul "Intel
+Text_intrebare : Inside"?
+endl
+Hint : Intel core i7 inside
+Raspuns : Mouse
+Raspuns : RAM
+Raspuns : BIOS
+Raspuns : USB
+Raspuns : Tastatura
+Raspuns : Procesor
+Raspuns : Monitor
+endl
+Indice RC : 5
+Image : calculator.png
+Punctaj : 32
+Timp : 200

@@ -1,0 +1,21 @@
+Domeniu : Geografie
+Nivel : 10
+Titlu : Romania
+Text_intrebare : Unde se gaseste Pestera Ursilor 
+Text_intrebare : in Romania?
+endl
+Hint : no hint
+Raspuns : Alba, Alba Iulia
+Raspuns : Timis, Timisoara
+Raspuns : Cluj, Cluj Napoca
+Raspuns : Bihor, Oradea
+Raspuns : Bihor, Salonta
+Raspuns : Arad, Ghiorac
+Raspuns : Bihor, Kiskoh
+Raspuns : Constanta, Constanta
+Raspuns : Bihor, Sacuieni Bihor
+endl
+Indice RC : 6
+Image : pesterea.png
+Punctaj : 40
+Timp : 200

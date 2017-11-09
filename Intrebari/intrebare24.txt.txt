@@ -1,0 +1,20 @@
+Domeniu : Istorie
+Nivel : 10
+Titlu : Fizica
+Text_intrebare : Care a fost nationalitatea lui 
+Text_intrebare : Albert Einstein?
+endl
+Hint : Nu numa o singura nationalitate a avut
+Raspuns : German
+Raspuns : Elvetian
+Raspuns : American
+Raspuns : Italian
+Raspuns : German, American, Elvetian
+Raspuns : German, Roman, American
+Raspuns : Italian, Spaniola
+Raspuns : German, American, ELvetian, Italian, Roman, Brazilian
+endl
+Indice RC : 4
+Image : einstein.png
+Punctaj : 40
+Timp : 300

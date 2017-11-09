@@ -1,0 +1,16 @@
+Domeniu : Limbi straini
+Nivel : 7
+Titlu : Grecia
+Text_intrebare : Prefixul "eco" vine de la un cuvant
+Text_intrebare : grecesc care inseamna:
+endl
+Hint : no hint
+Raspuns : stat
+Raspuns : casa
+Raspuns : soare
+Raspuns : viata
+endl
+Indice RC : 1
+Image : grecia.png
+Punctaj : 24
+Timp : 200

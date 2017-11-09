@@ -1,0 +1,20 @@
+Domeniu : Oradea
+Nivel : 6
+Titlu : Universitatea din Oradea
+Text_intrebare : In care pavilon se tine
+Text_intrebare : cursurile de la specializarea
+Text_intrebare : Informatica-Matematica?
+endl
+Hint : Pavilonul albastru
+Raspuns : A
+Raspuns : B
+Raspuns : C
+Raspuns : D
+Raspuns : E
+Raspuns : F
+Raspuns : N
+endl
+Indice RC : 2
+Image : facultate.png
+Punctaj : 24
+Timp : 200

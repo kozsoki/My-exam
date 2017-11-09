@@ -1,0 +1,16 @@
+Domeniu : Generalitati
+Nivel : 3
+Titlu : Date
+Text_intrebare : Cate zile are luna iulie in 2017?
+endl
+Hint : Intre 28 si 31 :D
+Raspuns : 28
+Raspuns : 30
+Raspuns : 31
+Raspuns : 32
+Raspuns : 29
+endl
+Indice RC : 2
+Image : calendar.png
+Punctaj : 12
+Timp : 200

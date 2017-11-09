@@ -1,0 +1,18 @@
+Domeniu : Fizica
+Nivel : 2
+Titlu : Teorie relativitati
+Text_intrebare : Cum este consecinta teoriei
+Text_intrebare : relativitatii?
+endl
+Hint : Formula lui Einstei 1905
+Raspuns : m = b * d
+Raspuns : F = K * b
+Raspuns : Ft = F * t
+Raspuns : E = m * c * c
+Raspuns : H = L + l
+Raspuns : B * B = (A * A) + (C * C)
+endl
+Indice RC : 3
+Image : relativitate.png
+Punctaj : 8
+Timp : 200

@@ -1,0 +1,22 @@
+Domeniu : Generalitati
+Nivel : 1
+Titlu : Animale
+Text_intrebare : Care dintre urmatoarele
+Text_intrebare : animale arata ca si o zebra?
+endl
+Hint : no hint
+Raspuns : Papagal
+Raspuns : Coliri
+Raspuns : Orngutan
+Raspuns : Cal
+Raspuns : Girafa
+Raspuns : Aligator
+Raspuns : Zebra
+Raspuns : Leu
+Raspuns : Pisica
+Raspuns : Iepuras
+endl
+Indice RC : 6
+Image : zebra.png
+Punctaj : 4
+Timp : 100

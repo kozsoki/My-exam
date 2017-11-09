@@ -1,0 +1,16 @@
+Domeniu : Informatica
+Nivel : 10
+Titlu : Retea de socializare
+Text_intrebare : Cand a fost lansat Facebookul?
+endl
+Hint : A fost in 4 februar
+Raspuns : 4 februar 2004
+Raspuns : 3 februar 2004
+Raspuns : 13 iunie 2013
+Raspuns : 4 februar 2010
+Raspuns : 1 aprilie 2016
+endl
+Indice RC : 0
+Image : facebook.png
+Punctaj : 40
+Timp : 200

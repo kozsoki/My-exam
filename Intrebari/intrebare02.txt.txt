@@ -1,0 +1,15 @@
+Domeniu : Generalitati
+Nivel : 2
+Titlu : Bancnote
+Text_intrebare : Care este tipul de bani in Romania?
+endl
+Hint : A fost lei
+Raspuns : Euro
+Raspuns : RON
+Raspuns : $
+Raspuns : Lira
+endl
+Indice RC : 1
+Image : bani.png
+Punctaj : 8
+Timp : 100

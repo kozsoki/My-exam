@@ -1,0 +1,18 @@
+Domeniu : Istorie
+Nivel : 10
+Titlu : Masini
+Text_intrebare : In ce an a fost fondata Dacia?
+endl
+Hint : A fost in secolul XX
+Raspuns : 1890
+Raspuns : 1895
+Raspuns : 1940
+Raspuns : 1952
+Raspuns : 1966
+Raspuns : 1995
+Raspuns : 2003
+endl
+Indice RC : 4
+Image : dacia.png
+Punctaj : 24
+Timp : 200

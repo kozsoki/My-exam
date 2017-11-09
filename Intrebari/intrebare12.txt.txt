@@ -1,0 +1,19 @@
+Domeniu : Football
+Nivel : 10
+Titlu : Campionat UEFA
+Text_intrebare : Cine a castigat UEFA Champions
+Text_intrebare : Leauge in 2017?
+endl
+Hint : Spaniola
+Raspuns : Barcelona
+Raspuns : Juventus
+Raspuns : Real Madrid
+Raspuns : Monaco
+Raspuns : Dortmund
+Raspuns : Bayern Munchen
+Raspuns : Atletico Madrid
+endl
+Indice RC : 2
+Image : fotbal.png
+Punctaj : 40
+Timp : 200

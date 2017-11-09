@@ -1,0 +1,15 @@
+Domeniu : XS
+Nivel : 1
+Titlu : xs
+Text intrebare : Ce este XS?
+endl
+Hint : Ii de baut
+Text raspuns : Energizant
+Text raspuns : Cafea
+Text raspuns : Zahar
+Text raspuns : Masina
+endl
+Indice RC : 0
+Image : 
+Punctaj : 1
+Timp : 2

@@ -1,0 +1,18 @@
+Domeniu : Generalitati
+Nivel : 9
+Titlu : Bowling
+Text_intrebare : Cu cate jaloane se joaca Bowling?
+endl
+Hint : Se pune in 4 randuri
+Raspuns : 2
+Raspuns : 5
+Raspuns : 10
+Raspuns : 15
+Raspuns : 12
+Raspuns : 20
+Raspuns : 8
+endl
+Indice RC : 2
+Image : bowling.png
+Punctaj : 36
+Timp : 200

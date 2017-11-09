@@ -1,0 +1,21 @@
+Domeniu : Informatica
+Nivel : 4
+Titlu : Tastatur
+Text_intrebare : Care buton este intre "A" si "D"?
+endl
+Hint : Si cuvantul "soare" incepe cu asta
+Raspuns : W
+Raspuns : E
+Raspuns : X
+Raspuns : D
+Raspuns : A
+Raspuns : F
+Raspuns : Q
+Raspuns : S
+Raspuns : Z
+Raspuns : c
+endl
+Indice RC : 7
+Image : tastatura.png
+Punctaj : 16
+Timp : 50

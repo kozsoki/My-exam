@@ -1,0 +1,16 @@
+Domeniu : Geografie
+Nivel : 6
+Titlu : Munti
+Text_intrebare : Cum se numeste muntii romanesti?
+endl
+Hint : no hint
+Raspuns : Ural
+Raspuns : Carpati
+Raspuns : Grampieni
+Raspuns : Alpi
+Raspuns : Apenini
+endl
+Indice RC : 1
+Image : carpati.png
+Punctaj : 24
+Timp : 200

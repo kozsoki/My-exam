@@ -1,0 +1,19 @@
+Domeniu : Generalitati
+Nivel : 3
+Titlu : Film
+Text_intrebare : Cu care film a castigat Leonardo 
+Text_intrebare : Dicaprio trofeul oscar?
+endl
+Hint : Inspirat din romanul Michael Punke
+Raspuns : The Wolf of Wall Street
+Raspuns : Titanic
+Raspuns : The aviator
+Raspuns : Django Unchained
+Raspuns : Inception
+Raspuns : The Revenant
+Raspuns : Gangs of New York
+endl
+Indice RC : 5
+Image : leonardo.png
+Punctaj : 12
+Timp : 150

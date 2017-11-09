@@ -1,0 +1,16 @@
+Domeniu : Generalitate
+Nivel : 8
+Titlu : Retea de soializare
+Text_intrebare : Cine ii proprietarul Facebookului?
+endl
+Hint : Are numa 33 de ani
+Raspuns : Edward Zuckerberg
+Raspuns : Randi Zuckerberg
+Raspuns : Donna Zuckerberg
+Raspuns : Mark Zuckerberg
+Raspuns : Maxima Zuckerberg
+endl
+Indice RC : 3
+Image : facebook.png
+Punctaj : 24
+Timp : 150

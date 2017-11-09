@@ -1,0 +1,19 @@
+Domeniu : Geografie
+Nivel : 10
+Titlu : Romania
+Text_intrebare : In ce judet se afla localitatea
+Text_intrebare : Rosia Montana?
+endl
+Hint : Aici curge raul Rosia
+Raspuns : Prahova
+Raspuns : Alba
+Raspuns : Bihor
+Raspuns : Buzau
+Raspuns : Maramures
+Raspuns : Arad
+Raspuns : Timis
+endl
+Indice RC : 1
+Image : rosia.png
+Punctaj : 40
+Timp : 200

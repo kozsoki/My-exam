@@ -1,0 +1,17 @@
+Domeniu : Astronomie
+Nivel : 4
+Titlu : Pamant
+Text intrebare : Care este distanta aproximativa 
+Text intrebare : de la centrul Pamantului la centrul
+Text intrebare : Soarelui
+endl
+Hint : Lumina parcurge diustanta in 8.2 sec
+Text raspuns : 149.6 km
+Text raspuns : 149.6 mii Km
+Text raspuns : 149.7 milioane Km
+Text raspuns : 149.6 miliarde Km
+endl
+Indice RC : 2
+Image : ssolar.png
+Punctaj : 20
+Timp : 100

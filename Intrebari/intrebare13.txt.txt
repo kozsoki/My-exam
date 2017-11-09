@@ -1,0 +1,19 @@
+Domeniu : Formula 1
+Nivel : 9
+Titlu : Campion mondial
+Text_intrebare : Cine a castigat campionatul mondial
+Text_intrebare : in formula1 in anul 2014?
+endl
+Hint : Nationalitatea engleza
+Raspuns : Sebastian Vettel
+Raspuns : Nico Rosberg
+Raspuns : Fernando Alonso
+Raspuns : Kimi Raikkonen
+Raspuns : Lewis Hamilton
+Raspuns : Jenson Button
+Raspuns : Felipe Massa
+endl
+Indice RC : 4
+Image : f1.png
+Punctaj : 36
+Timp : 250

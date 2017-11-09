@@ -1,0 +1,15 @@
+Domeniu : Matematica
+Nivel : 7
+Titlu : Matematica
+Text_intrebare : Cate milioane are un miliard?
+endl
+Hint : no Hint
+Raspuns : 1000
+Raspuns : 10000
+Raspuns : 10
+Raspuns : 100
+endl
+Indice RC : 0
+Image : no image
+Punctaj : 28
+Timp : 200

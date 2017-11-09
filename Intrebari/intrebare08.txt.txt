@@ -1,0 +1,20 @@
+Domeniu : Masini
+Nivel : 6
+Titlu : 
+Text_intrebare : Care este cea mai mare
+Text_intrebare : cuncurenta pentru 
+Text_intrebare : Mercedes-Benz?
+endl
+Hint : Germana
+Raspuns : BMW
+Raspuns : Audi
+Raspuns : Volkswagen
+Raspuns : Nissan
+Raspuns : Dacia
+Raspuns : Toyota
+Raspuns : Alfa Romeo
+endl
+Indice RC : 0
+Image : masina.png
+Punctaj : 24
+Timp : 200

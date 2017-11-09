@@ -1,0 +1,16 @@
+Domeniu : Matematica
+Nivel : 2
+Titlu : Derivte
+Text intrebare : Care este derivata
+Text intrebare : functiei f(x)= 2x
+endl
+Hint : 
+Text raspuns : 1
+Text raspuns : 2
+Text raspuns : 3
+Text raspuns : 4
+endl
+Indice RC : 1
+Image : 
+Punctaj : 8
+Timp : 10

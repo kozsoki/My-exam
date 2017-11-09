@@ -1,0 +1,17 @@
+Domeniu : Informatica
+Nivel : 4
+Titlu : Telefon
+Text_intrebare : Ce sistem de operatie are Apple?
+endl
+Hint : no Hint
+Raspuns : Android
+Raspuns : Microsoft
+Raspuns : Symbian
+Raspuns : IOS
+Raspuns : Linux
+Raspuns : RIM
+endl
+Indice RC : 3
+Image : apple.png
+Punctaj : 16
+Timp : 150
