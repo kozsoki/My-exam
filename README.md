@@ -1,2 +1,3 @@
 # My Exam
-Ez a program volt a vizsgamunkam az egyetemen
+This program is my exam in university.
+Is a test on romanian language
